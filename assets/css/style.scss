@@ -1,0 +1,100 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ---------- Fondo amigable ---------- */
+body {
+  background-color: #eef4f8;
+  background-image: url("{{ '/assets/img/background.svg' | relative_url }}");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* ---------- Tarjetas sobre el fondo ---------- */
+header,
+section {
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(60, 80, 100, 0.10);
+  box-sizing: border-box;
+}
+
+header {
+  padding: 20px;
+}
+
+section {
+  padding: 25px 35px;
+}
+
+/* ---------- Sección central al doble de ancho (solo escritorio) ---------- */
+@media print, screen and (min-width: 961px) {
+  .wrapper {
+    width: 1340px;
+  }
+
+  section {
+    /* ~2x los 500px originales del tema */
+    width: 980px;
+  }
+}
+
+/* ---------- Lista de ediciones en la barra lateral ---------- */
+/* Reset de los estilos que el tema aplica a header ul/li (pensados para botones) */
+header nav ul {
+  list-style: none;
+  height: auto;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 0;
+}
+
+header nav li {
+  width: auto;
+  float: none;
+  height: auto;
+  border: none;
+  margin: 0;
+  padding: 6px 8px;
+  border-left: 3px solid transparent;
+}
+
+header nav a {
+  display: inline;
+  height: auto;
+  padding: 0;
+  font-size: 14px;
+  line-height: inherit;
+  text-align: left;
+}
+
+nav.side-nav {
+  margin-top: 30px;
+}
+
+nav.side-nav h2 {
+  font-size: 18px;
+  margin: 0 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+nav.side-nav li.active {
+  border-left-color: #069;
+  background: rgba(0, 102, 153, 0.06);
+  font-weight: bold;
+}
+
+nav.side-nav li a {
+  color: #069;
+  text-decoration: none;
+}
+
+nav.side-nav li.active a {
+  color: #045;
+}
