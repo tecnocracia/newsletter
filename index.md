@@ -5,7 +5,7 @@ title: Tecnocracia
 
 # Tecnocracia
 
-Newsletter semanal de tecnología y derecho digital.
+Newsletter semanal de la sociedad tecnocráticas.
 
 ## Ediciones
 

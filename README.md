@@ -1,6 +1,6 @@
 # Tecnocracia — Newsletter
 
-Sitio estático (GitHub Pages + Jekyll) con las ediciones de Tecnocracia, la newsletter semanal de tecnología y derecho digital.
+Sitio estático (GitHub Pages + Jekyll) con las ediciones de Tecnocracia, la newsletter semanal de la sociedad tecnocráticas.
 
 - Sitio: <https://tecnocracia.github.io/newsletter/>
 - Las ediciones están en [`newsletters/`](newsletters/), numeradas en orden secuencial (N° 1 = más antigua, N° 9 = más reciente).

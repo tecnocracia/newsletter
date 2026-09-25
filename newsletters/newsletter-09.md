@@ -6,7 +6,7 @@ permalink: /newsletters/newsletter-09/
 
 # Newsletter N° 9
 
-## Entrevista exclusiva: el Dr. Malanzano y la lucha contra el ciberacoso en Argentina (Parte 1 de 2)
+## Entrevista exclusiva: el Dr. Malanzano y el ciberacoso en Argentina (Parte 1 de 2)
 
 *El abogado penalista que logró 17 perimetrales en un solo tribunal cuenta cómo llegó a representar a las víctimas, por qué los casos se acumulan y qué señales de alerta hay que conocer.*
 
@@ -67,45 +67,17 @@ El entrevistado es el Dr. Malanzano, abogado penalista con más de 30 años de e
 También hay algunas tácticas psicológicas que utilizan para generar empatía y falsa confianza, de manera que, cuando aparecen señales de alerta, el cerebro las minimice:
 
 6. Trato de "Ud." en lugar de "vos": es un truco psicológico para dar sensación de respeto, educación y seguridad.
-7. Comentarios de su vida personal en una conversación que no lo amerita o sin tener ese tipo de relación: hablar de un mal día de trabajo, problemas personales, de salud, ser víctimas de algo.
+7. Comentarios de su vida personal en una conversación que no lo amerita o sin tener ese tipo de relación: hablar de un mal día de trabajo, problemas personales, de salud, ser víctimas de algo completamente fortuito e injusto.
 8. Excusas de nivel cinematográfico.
 9. Referir a otras personas que lo hacen ver más confiable pero sin nombrarlas: jefes, esposas, amigos, pero nunca un nombre. Mencionar personas lo convierte en sociable, pero como son situaciones inventadas no aparecen nombres.
 
-Si una o dos de estas alertas aparecen, no es problema; pero si aparecen muchas —especialmente las tácticas psicológicas—, lo recomendable es no alarmarse ni romper los vínculos, pero sí tomar precauciones.
+Si una o dos de estas alertas aparecen, no es problema evalúen el resto del comportamiento y revisen si no hay otras alertas; y si aparecen muchas —especialmente las tácticas psicológicas—, lo recomendable es no alarmarse ni romper los vínculos, pero sí tomar precauciones.
 
-> **Nota del autor:** sobre estas tácticas, el Dr. remarcó que si el vínculo es afectivo, este tipo de confidencias es apropiado; pero si no lo es, sirven para generar empatía, de modo que al surgir alertas por el comportamiento —promesas incumplidas, encuentros que no se concretan, negarse a dar datos personales, errores en el discurso—, la parte del cerebro que siente empatía las ignore. Especialmente si cada alarma tiene siempre una explicación que los victimiza de manera fortuita: mala suerte, un desconocido que hace una maldad aleatoria. Si fuera un conocido habría razones; siempre debe ser algo casi inexplicable.
+> **Nota del autor:** sobre estas tácticas, el Dr. remarcó que si el vínculo es afectivo, este tipo de confidencias es apropiado; pero si no lo es, sirven para generar empatía, de modo que al surgir alertas por el comportamiento —promesas incumplidas, encuentros que no se concretan, negarse a dar datos personales, errores en el discurso—, la parte del cerebro que siente empatía las ignore o minimice. Especialmente si cada caso tiene siempre una explicación que los victimiza de manera fortuita: mala suerte, un desconocido que hace una maldad aleatoria (porque si fuera un conocido habría razones para un acto malévolo); siempre debe ser algo casi inexplicable e imprevisible.
 
 **J: ¿Cómo cuáles?**
 
-**Dr:** Averiguar datos personales concretos: nombre y apellido; si se puede ver un documento o tarjeta de crédito, mejor; patentes del auto; números de teléfono. En caso de tener cualquiera de estos datos, pasárselos a un familiar o amigo y avisarle a ese amigo del encuentro. También es mejor chatear por servicios que guardan las conversaciones, y mantenerlas. Si usan WhatsApp, evitar las conversaciones que se borran a los pocos días; en vez de eso, utilizar Facebook o Instagram. Evitar borrar las conversaciones todo lo posible: no es por lo que se dice, sino por lo que NO se dice. Muchos acosadores alegan que fueron llamados, invitados o que avisaron que irían; si las conversaciones fueron borradas, las víctimas no pueden demostrar que no fue así.
-
-**J: ¿Qué me puede comentar de las 17 perimetrales, los 2 acusados y las 5 indagatorias? Por favor, sin entrar en datos específicos, ya que no podría entrevistarlos para que hagan un descargo.**
-
-**Dr:** Sin entrar en datos personales… empecemos por los 2 acusados y las 5 indagatorias. Los acusados están relacionados con la detención de un ciberacosador el 13 de septiembre, gracias a una extraordinaria labor de la Dra. Valente. Esta persona se movía entre Rosario y Buenos Aires, y acosaba a una de las mujeres que yo representé, que era su expareja, cuando se encontraba en Rosario. Ella terminó la relación y el acosador, cuando venía a Rosario, se presentaba en su casa. Los 2 acusados son empleados de Control Urbano y primos del ciberacosador, que en complicidad con él continuaban el acoso a mi cliente. Es muy difícil lograr demostrarlo, pero la Dra. Valente, al acusarlos, obliga a la municipalidad a removerlos del cargo al menos.
-
-Las 5 indagatorias son por acosadores que se negaron a declarar en tribunales y que se sospecha acosan a más mujeres de las que los han denunciado. La Dra. Valente continuará la indagatoria, pero ya hemos visto que en sus perfiles han comenzado a borrar publicaciones, a dejar de seguir otras cuentas, etc. Tenemos mucha evidencia, pero la fiscalía tendrá que verificarla de manera independiente.
-
-Por las 17 perimetrales, tenemos todo tipo de casos: unos pocos desconocidos que han perseguido mujeres; un grueso de exparejas que resienten el rompimiento, o cuando sus ex forman nuevas parejas. Pero de todos, hay 2 situaciones que fueron las que más me llamaron la atención por la crueldad de la metodología. En 4 casos representé a mujeres donde el ciberacosador contacta a sus nuevas parejas y busca de manera indirecta lastimarlas. Aparentemente es una nueva moda: ciberacosar a la pareja de la mujer que pretenden afectar. Buscan lastimarlas rompiendo el vínculo con sus nuevas parejas; en algunos casos se ha llegado a desatar una reacción violenta por parte de sus parejas. En estos 4 casos, solo en 1 logramos la perimetral, mayormente gracias a que unas amigas trataban de rastrear al acosador y terminaron siendo amenazadas por él. De no ser por esto, todos se justifican diciendo que solo informaban a la pareja sobre infidelidades; y sin la denuncia de la pareja —que no la hace porque ya rompió la relación— quedan impunes.
-
-**J: ¿Las menores de edad son las más expuestas?**
-
-**Dr:** No. De hecho, las menores de edad son las únicas protegidas por la ley. Si el acosador es mayor de edad y demostrás que lo sabía, eso puede darle tiempo en la cárcel. En general, tratan de nunca preguntar edades, y en muchos casos, si se lo dicen, detienen todo contacto y se las "pasan" a otro dentro de sus redes.
-
-**J: El otro día me comentó de estas redes; después tengo algunas preguntas al respecto. Primero: entonces, ¿quiénes son las más expuestas?**
-
-**Dr:** Las mujeres mayores, en general con pareja estable o semiestable, donde el acosador puede usar esta relación para amenazarlas. La ley no provee ninguna herramienta para que mujeres mayores de edad puedan enviar a ciberacosadores a la cárcel, incluso con casos de reincidencia. A veces es algo unilateral; otras, es una relación de años atrás; muchas veces es solo una fantasía por chat. Pero el acosador que habla con una mujer en pareja sabe que la puede extorsionar; incluso sin pareja sucede también, con la amenaza de publicar fotos y audios.
-
-**J: ¿Y por qué aparecen ahora estos acosadores?**
-
-**Dr:** Los residentes digitales. Esto es algo que me explicaron las dos abogadas que consulté. Si las redes sociales fueran un país, tenemos 3 grupos de personas: los ciudadanos, los residentes y los turistas.
-
-Las personas de menos de 45 años son ciudadanos digitales y de las redes sociales: las usan desde siempre y tienen bastante claras las "leyes", aunque no estén escritas. Saben qué no deben hacer, entienden de privacidad y la libertad de esta generación. Comprenden que una mujer posteando una foto en ropa deportiva es solo ella mostrando su compromiso con su salud. Pero aquí tenemos 2 grupos de ciudadanas de esta nación de redes sociales: las menores de 35, por lo general, no postean información personal, no ponen sus nombres completos, usan perfiles privados, no aceptan a cualquiera en sus redes, no dudan en bloquear gente. Crecieron con vínculos digitales, saben de los riesgos, fueron educadas en ellos y se protegen. Solo interactúan con personas que conocen o les dan referencias. Con personas poco conocidas, si se atreven a aceptarlas, es desde lejos, con pocos accesos y mínima interacción. Los hombres son respetuosos de las indicaciones, desisten si una mujer los rechaza. Comprenden que no deben reenviar las imágenes; y las insinuaciones, aunque puedan parecer demasiado audaces para otras generaciones, no suelen ser de ninguna forma invasivas.
-
-Luego, las ciudadanas digitales de entre 35 y 45 años son como esos niños que viajan a un nuevo país siendo pequeñas. Recuerdan la vida antes, ven las ventajas de la digitalización, pero en sus mentes los vínculos son como en persona. No tienen el sistema de alerta de las más jóvenes: un hombre que conocen por este medio resuena en ellas como alguien que conocen en persona; suelen tener datos personales y usar sus nombres completos en los perfiles, incluso si no son profesionales. Tardan en detectar las señales de alerta o confían demasiado: vivieron una época donde los vínculos eran seguros y no desconfían por instinto. Los hombres de este rango suelen entablar relaciones duraderas y con tiempos largos, y suelen ser muy respetuosos de la privacidad. Usan las redes sociales como medio de contacto y herramienta para conocer sanamente personas con quienes vincularse.
-
-Luego estamos los turistas digitales —me incluyo—: somos mayores de 70. Nacimos mucho antes de su surgimiento y, además, las ignoramos por toda una generación. Cuando finalmente las empezamos a usar, ya había un mundo allí. Pero somos turistas: hoy sabemos que es un mundo que no conocemos, y es como ir a otro país para nosotros. Debemos aprender las leyes, debemos respetar sus normas, porque comprendemos que no lo entendemos totalmente; es como si fuéramos a un país donde las mujeres tienen que taparse el rostro: nosotros no lo vivimos, pero entendemos que debemos respetarlo si estamos allí. Esta circunstancia hace que seamos respetuosos de la privacidad. Tanto hombres como mujeres de esta edad cometen errores por no comprender su uso y suelen ser confiados por demás, pero casi nunca agreden o acosan a otras personas.
-
-Finalmente, los residentes digitales: son las personas entre 45 y 70 años. Estas personas, al igual que los turistas, nacieron antes de las redes sociales y luego las empezaron a usar, pero desde el inicio. Hoy se sienten cómodos usándolas y se creen ciudadanos, pero la realidad es que traen valores, derechos y actitudes que no son compatibles con la actualidad; a diferencia de los turistas digitales, los residentes creen que su forma es la correcta. Por ejemplo, traen la costumbre de insistir por chat y hacer nuevas cuentas para forzar una charla con las otras personas. Creen que si una mujer comenzó una relación digital de cualquier tipo, entonces debe sostenerla; ven a estas mujeres como se las veía en los años 70 en Argentina: como propiedad con derecho. Aplicar esto fuera de las redes sociales es muy difícil hoy: estas actitudes llevarían a una separación, acciones legales, denuncias, y mantener una vigilancia constante de las mujeres es físicamente imposible. Sin embargo, hacer esto en las redes sociales es más fácil: pueden vigilarlas por los posteos y escribirles constantemente. Si una mujer los bloquea, crean otras cuentas. Creen que las imágenes y audios que reciben son suyos para difundir y agredirlas si se sienten provocados. Se escudan en el anonimato. Es como si alguien de un país donde se permite golpear a las mujeres fuera residente en Argentina y comenzara a hacerlo: si es físicamente, iría preso; pero digitalmente estamos lejos de eso. Los acosadores son, en su mayoría, un subgrupo de este rango de edad, que es muy amplio de por sí. Son casos extremos de este grupo. Y la falta de regulaciones los ha hecho más atrevidos.
+**Dr:** Averiguar datos personales concretos: nombre y apellido; si se puede ver un documento o tarjeta de crédito, mejor; patentes del auto; números de teléfono. En caso de tener cualquiera de estos datos, pasárselos a un familiar o amigo y avisarle a ese amigo del encuentro. También es mejor chatear por servicios que guardan las conversaciones, y mantenerlas. Si usan WhatsApp, evitar las conversaciones que se borran a los pocos días; en vez de eso, utilizar Facebook o Instagram. Evitar borrar las conversaciones todo lo posible: no es por lo que se dice, sino por lo que NO se dice. Muchos acosadores alegan que fueron llamados, invitados o que avisaron que harían; pero si las conversaciones fueron borradas, las víctimas no pueden demostrar que no fue así.
 
 *La entrevista continuará en la próxima edición.*
 
@@ -121,30 +93,32 @@ Finalmente, los residentes digitales: son las personas entre 45 y 70 años. Esta
 | 2 | No tiene referencia a su nombre real |
 | 3 | Nunca etiqueta públicamente a alguien ni muestra actividad constante en sus redes |
 | 4 | Todas las fotos que envía son temporales |
-| 5 | Nunca revela su nombre en el chat, aunque ya se lo haya dicho en persona |
+| 5 | Nunca revela su nombre en el chat, aunque ya haya dicho su nombre en persona. Suele referir a un nombre falso o no poder ser vinculada la persona con el perfil de la red social |
 
 **Tácticas psicológicas para generar falsa confianza**
 
+Tácticas comunes de los
+
 | # | Táctica |
 |---|---|
-| 6 | Trato de "Ud." en lugar de "vos": sensación fabricada de respeto, educación y seguridad |
-| 7 | Comentarios de su vida personal sin que la relación lo amerite (un mal día, problemas de salud, hacerse la víctima) |
-| 8 | Excusas de nivel cinematográfico |
-| 9 | Refiere a otras personas que lo hacen ver confiable, pero sin nombrarlas nunca (jefes, esposas, amigos) |
+| 6 | Trato de "Ud." en lugar de "vos": sensación fabricada de respeto, educación y seguridad. Al mostrarnos mayor respeto sentimos que esa persona no puede luego abusar del vínculo |
+| 7 | Comentarios de su vida personal sin que la relación lo amerite (un mal día, problemas de salud, ser víctima). Al conocer su vida personal nos hace partícipes y nuesto cerebro cree que lo conoce pero en realidad es sólo su historia |
+| 8 | Excusas de nivel cinematográfico, caos en el trabajo, problema repentino de salud. Nos permite justificar una falla, una mala respuesta, un planteo extraño, una cancelación repentina. |
+| 9 | Refiere a otras personas que lo hacen ver confiable, pero sin nombrarlas nunca (jefes, esposas, amigos). Un entorno social lo hace ver real, pero sin nombres pues inventan mientras surge |
 
-> **Regla general:** si aparecen una o dos alertas, no es problema. Si aparecen muchas —sobre todo tácticas psicológicas—, no te alarmes ni rompas el vínculo, pero sí tomá precauciones.
+> **Regla general:** si aparecen una o dos alertas, no es problema, sólo evaluar si hay alguna de las otras alertas. Si aparecen muchas —sobre todo tácticas psicológicas—, no te alarmes ni rompas el vínculo, pero sí tomá precauciones.
 
 **Precauciones recomendadas**
 
 | Precaución | Por qué |
 |---|---|
-| Averiguá datos concretos: nombre y apellido, documento o tarjeta si es posible, patente del auto, número de teléfono | Permiten identificar a la persona real detrás del perfil |
+| Averiguá datos concretos: nombre y apellido, puede verificarse en un documento o tarjeta si es posible, patente del auto, número de teléfono | Permiten identificar a la persona real detrás del perfil |
 | Pasá esos datos a un familiar o amigo y avisale del encuentro | Alguien de confianza sabe dónde estás y con quién |
 | Chateá por servicios que guarden las conversaciones; evitá los mensajes temporales o que se autodestruyen | La evidencia digital es la base de cualquier denuncia |
-| No borres las conversaciones | No importa solo lo que se dice, sino lo que NO se dice: muchos acosadores alegan que fueron invitados o que avisaron que irían |
+| No borres las conversaciones | No importa solo lo que se dice, sino lo que NO se dice: muchos acosadores alegan que fueron invitados o que avisaron que harían |
 
 ---
 
-**Próxima edición:** la segunda parte de la entrevista con el Dr. Malanzano: cómo operan los grupos y las redes de acosadores.
+**Próxima edición:** la segunda parte de la entrevista con el Dr. Malanzano.
 
 [Volver al índice]({{ "/" | relative_url }})
