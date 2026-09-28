@@ -52,7 +52,7 @@ El entrevistado es el Dr. Malanzano, abogado penalista con más de 30 años de e
 
 **J: ¿Qué me puede comentar de los 2 acusados?**
 
-Los acusados están relacionados a la detención de un ciberacosador el 13 de septiembre por una extraordinaria labor de la Dra. Valente. Esta persona se movía entre Rosario y Bs. As. Es la ex-pareja de una de las mujeres que yo represento que lo denunció y la Dra. Valente se encargó de llevar adelante su detención. Los 2 acusados son primos del detenido que comenzaron a acosar a mi cliente luego de la detención.
+**Dr:** Los acusados están relacionados a la detención de un ciberacosador el 13 de septiembre por una extraordinaria labor de la Dra. Valente. Esta persona se movía entre Rosario y Bs. As. Es la ex-pareja de una de las mujeres que yo represento que lo denunció y la Dra. Valente se encargó de llevar adelante su detención. Los 2 acusados son primos del detenido que comenzaron a acosar a mi cliente luego de la detención.
 
 ---
 
