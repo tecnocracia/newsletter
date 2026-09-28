@@ -50,6 +50,10 @@ El entrevistado es el Dr. Malanzano, abogado penalista con más de 30 años de e
 
 **Dr:** (risas) No, pero casi. Hay mucha más trayectoria en Capital Federal, pero como allí surgió gradualmente no hay un juzgado especializado, sí fiscales y equipos de trabajo. Si Rosario sostiene un juzgado especializado en ciberacoso y ciberbullying, podría lograr el progreso más grande en estos juicios.
 
+**J: ¿Qué me puede comentar de los 2 acusados?**
+
+Los acusados están relacionados a la detención de un ciberacosador el 13 de septiembre por una extraordinaria labor de la Dra. Valente. Esta persona se movía entre Rosario y Bs. As. Es la ex-pareja de una de las mujeres que yo represento que lo denunció y la Dra. Valente se encargó de llevar adelante su detención. Los 2 acusados son primos del detenido que comenzaron a acosar a mi cliente luego de la detención.
+
 ---
 
 *Más adelante continuaremos con esta entrevista, pero entre las preguntas hay algunas que hice sobre el final y que creo más importantes incluir en esta newsletter.*
