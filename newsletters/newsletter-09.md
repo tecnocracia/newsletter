@@ -8,7 +8,7 @@ permalink: /newsletters/newsletter-09/
 
 ## Entrevista exclusiva: el Dr. Malanzano y el ciberacoso en Argentina (Parte 1 de 2)
 
-*El abogado penalista que logró 17 perimetrales en un solo tribunal cuenta cómo llegó a representar a las víctimas, por qué los casos se acumulan y qué señales de alerta hay que conocer.*
+*El abogado penalista que logró 17 conclusiones favorables en un solo tribunal cuenta cómo llegó a representar a las víctimas, por qué los casos se acumulan y qué señales de alerta hay que conocer.*
 
 El entrevistado es el Dr. Malanzano, abogado penalista con más de 30 años de experiencia, radicado en la localidad de Junín, Buenos Aires. Tras las resoluciones de la semana pasada, regresó a su casa por unos días, pero aceptó una entrevista telefónica, realizada el miércoles 23/9.
 
@@ -17,6 +17,7 @@ El entrevistado es el Dr. Malanzano, abogado penalista con más de 30 años de e
 1. En la newsletter anterior mencioné que el Dr. Malanzano era juez federal, pero no es así: solo había sido nominado para juez federal y renunció un mes antes de asumir, por esta misma causa. Siento la confusión: tuve conocimiento de todo esto un día antes de publicar y, en la prisa, no llegué a verificar este hecho. Luego de organizar telefónicamente esta entrevista, el Dr. me hizo notar el error. He vuelto a revisar los demás hechos y los he verificado nuevamente.
 2. Tuve conocimiento de estos hechos cuando me encontraba en tribunales y vi las reacciones de las familias. Traté de hablar tanto con las víctimas como con los acusados. Ninguno de los acusados quiso hablar conmigo. Al no tener los recursos para una investigación más profunda, minimizaré las opiniones sobre los casos particulares, me centraré en el ciberacoso en general y mantendré la entrevista imparcial, al no tener acceso a una de las partes.
 3. La entrevista fue muy larga, y Germancito nos dio un susto que casi se nos adelanta, por lo que esta semana publico la mitad y en la próxima newsletter, el resto.
+4. 2/10/2025. Revisando un poco más encontré otro error mío, no son 17 perimetrales, son 17 conclusiones favorables: 4 perimetrales, 2 acusaciones, 5 indagatorias y 6 solicitudes de información a redes sociales o compañias de telefonía para averiguar las identidades. Otra vez perdón.
 
 ---
 

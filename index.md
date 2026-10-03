@@ -11,6 +11,7 @@ Newsletter semanal de la sociedad tecnocráticas.
 
 De la más reciente a la más antigua:
 
+- [Newsletter N° 10 — Entrevista exclusiva: el Dr. Malanzano y la lucha contra el ciberacoso en Argentina (Parte 2 de 2)]({{ "newsletters/newsletter-10/" | relative_url }})
 - [Newsletter N° 9 — Entrevista exclusiva: el Dr. Malanzano y la lucha contra el ciberacoso en Argentina (Parte 1 de 2)]({{ "newsletters/newsletter-09/" | relative_url }})
 - [Newsletter N° 8 — Rosario, pionera en jurisprudencia de hostigamiento digital: 17 perimetrales en un solo tribunal]({{ "newsletters/newsletter-08/" | relative_url }})
 - [Newsletter N° 7 — La heladera que sugiere recetas según tu estado de ánimo detectado]({{ "newsletters/newsletter-07/" | relative_url }})

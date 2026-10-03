@@ -3,7 +3,7 @@
 Sitio estático (GitHub Pages + Jekyll) con las ediciones de Tecnocracia, la newsletter semanal de la sociedad tecnocráticas.
 
 - Sitio: <https://tecnocracia.github.io/newsletter/>
-- Las ediciones están en [`newsletters/`](newsletters/), numeradas en orden secuencial (N° 1 = más antigua, N° 9 = más reciente).
+- Las ediciones están en [`newsletters/`](newsletters/), numeradas en orden secuencial (N° 1 = más antigua, N° 10 = más reciente).
 - [`index.md`](index.md) lista las ediciones de la más reciente a la más antigua.
 
 ## Publicar una nueva edición
