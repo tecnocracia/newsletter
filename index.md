@@ -11,6 +11,7 @@ Newsletter semanal de la sociedad tecnocráticas.
 
 De la más reciente a la más antigua:
 
+- [Newsletter N° 13 — La ola de desnudos falsos con IA llegó a Rosario: el caso del Verbo Encarnado y la primera prueba de la Ley Ema]({{ "newsletters/newsletter-13/" | relative_url }})
 - [Newsletter N° 12 — Un mes después del Modelo Lomas: la ola de desnudos falsos con IA ya llegó a más escuelas, al Congreso y a un Código de Faltas]({{ "newsletters/newsletter-12/" | relative_url }})
 - [Newsletter N° 11 — Desnudos falsos con IA en un colegio de Lomas de Zamora: el caso del Colegio Modelo y qué hacer si te pasa en Santa Fe]({{ "newsletters/newsletter-11/" | relative_url }})
 - [Newsletter N° 10 — Entrevista exclusiva: el Dr. Malanzano y la lucha contra el ciberacoso en Argentina (Parte 2 de 2)]({{ "newsletters/newsletter-10/" | relative_url }})
